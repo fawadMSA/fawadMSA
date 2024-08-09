@@ -6,8 +6,8 @@
   <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+JavaScript+Developer;Angular+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
   
 </p>
-<h1 align="center"> Connect with me: </h1>
-<p align="center">
+<!-- <h1 align="center"> Connect with me: </h1>
+ <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e6e73b02-4663-4105-b49c-00184e168127"
   target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg"
@@ -43,7 +43,7 @@
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
       alt="fawad1386" height="30" width="40" />
 </a>
-</p>
+</p> -->
     <br>
 
 ### I'm a Full Stack Web Developer, Enthusiast, and Student!
