@@ -6,7 +6,7 @@
   <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+JavaScript+Developer;Angular+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
   
 </p>
-<!-- <h1 align="center"> Connect with me: </h1>
+<h1 align="center"> Connect with me: </h1>
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/e6e73b02-4663-4105-b49c-00184e168127"
   target="blank">
@@ -43,15 +43,15 @@
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
       alt="fawad1386" height="30" width="40" />
 </a>
-</p> -->
+</p>
     <br>
 
-### I'm a Full Stack Web Developer, Enthuist and Student!
-- 🔭 I’m currently working as Full Stack JavaScript Developer.
+### I'm a Full Stack Web Developer, Enthusiast, and Student!
+- 🔭 I’m currently working as a Full Stack JavaScript Developer.
 - 🌱 I’m currently expanding my knowledge in other Web Technologies.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2024-25 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected.
+- 💎 If you are a Tech boy/girl, let's connect.
 
  
 <br>
@@ -148,7 +148,7 @@
 	  
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-fawad-naeem/"><img src="https://img.shields.io/badge/-Muhammad%20Fawad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mohammad.fawad.564@gmail.com"><img src="https://img.shields.io/badge/-mohammad.fawad.564@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mfawad@maservices-ltd.com"><img src="https://img.shields.io/badge/mfawad@maservices-ltd.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/em_fawad_naeem/"><img src="https://img.shields.io/badge/-@fawadnaeem-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/fawad1386/"><img src="https://img.shields.io/badge/-/fawadnaeem-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
@@ -162,21 +162,21 @@
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fawad1386&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=fawad1386&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fawad1386&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fawadMSA&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=fawadMSA&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fawadMSA&theme=gruvbox"/></td>
   </tr>
 </table>
 	
 
 
- [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawad1386)](https://holopin.io/@fawad1386)
+ [![An image of @fawad1386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawad1386)](https://holopin.io/@fawad1386)
 
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
-<a href="https://github.com/fawad1386">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=fawad1386&theme=discord"/>
+<a href="https://github.com/fawadMSA">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=fawadMSA&theme=discord"/>
 </a>
 </p>
 <hr>
@@ -186,5 +186,5 @@
     
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/fawad1386/count.svg" />
+  <img src="https://profile-counter.glitch.me/fawadMSA/count.svg" />
 </p>
