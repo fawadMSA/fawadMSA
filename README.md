@@ -168,7 +168,7 @@
   </tr>
 </table>
 	
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fawadMSA)](https://git.io/streak-stats)
 
  [![An image of @fawad1386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawad1386)](https://holopin.io/@fawad1386)
 
