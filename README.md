@@ -3,7 +3,7 @@
     <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Fawad👋<a href="#"></a></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+JavaScript+Developer;Angular+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
+  <a href="https://github.com/fawadMSA"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+JavaScript+Developer;Angular+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
   
 </p>
 <!-- <h1 align="center"> Connect with me: </h1>
