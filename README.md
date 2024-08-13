@@ -163,12 +163,12 @@
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fawadMSA&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=fawadMSA&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><a href="[![GitHub Streak](https://streak-stats.demolab.com?user=fawadMSA&theme=dark&hide_border=true&border_radius=32&sideLabels=FABD2F&sideNums=FABD2F&dates=89B978&currStreakNum=FB8C00&ring=888888/></a></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fawadMSA&theme=gruvbox"/></td>
   </tr>
 </table>
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=fawadMSA&theme=dark&hide_border=false&border_radius=10.3&sideLabels=FABD2F&sideNums=FABD2F&dates=89B978&currStreakNum=FB8C00&ring=888888)](https://git.io/streak-stats)
+
  [![An image of @fawad1386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawad1386)](https://holopin.io/@fawad1386)
 
 <br/>
