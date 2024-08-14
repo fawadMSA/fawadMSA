@@ -163,7 +163,7 @@
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fawadMSA&theme=gruvbox"/></td>
-    <td><a href="[![GitHub Streak](https://streak-stats.demolab.com?user=fawadMSA&theme=dark&hide_border=true&border_radius=32&sideLabels=FABD2F&sideNums=FABD2F&dates=89B978&currStreakNum=FB8C00&ring=888888/></a></td>
+    <td><a href="https://streak-stats.demolab.com?user=fawadMSA&theme=dark&hide_border=true&border_radius=32&sideLabels=FABD2F&sideNums=FABD2F&dates=89B978&currStreakNum=FB8C00&ring=888888/></a></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fawadMSA&theme=gruvbox"/></td>
   </tr>
 </table>
