@@ -47,7 +47,7 @@
     <br>
 
 ### I'm a Full Stack Web Developer, Enthusiast, and Student!
-- 🔭 I’m currently working as a Full Stack JavaScript Developer.
+- 🔭 I’m currently working on [AgileBrains](http://agilebrains.com/).
 - 🌱 I’m currently expanding my knowledge in other Web Technologies.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2024-25 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
